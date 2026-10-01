@@ -1,0 +1,6 @@
+customer_id,customer_name,city,segment
+C001,Asha Rao,Hyderabad,PREMIUM
+C002,Ravi Kumar,Bengaluru,REGULAR
+C003,Meera Nair,Chennai,PREMIUM
+C004,John Mathew,Mumbai,REGULAR
+C005,Priya Singh,Delhi,NEW
